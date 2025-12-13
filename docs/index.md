@@ -1,4 +1,4 @@
-# Open Demography Methods (R track)
+# Open Demography Methods
 
 Welcome! This is a demography methods course designed for self-teaching, for demographers and especially non-(yet)-demographers
 
