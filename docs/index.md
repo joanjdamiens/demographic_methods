@@ -15,3 +15,10 @@ You’ll learn each tool through:
 1) [Setup](modules/00_setup.md)  
 2) [Lexis + exposures](modules/01_lexis.md)  
 3) [Rates + standardization](modules/02_rates_standardization.md)
+
+
+## Choose your track:
+
+- **R track:** https://joanjdamiens.github.io/demographic_methods_with_R/
+- **Stata track:** https://joanjdamiens.github.io/demographic_methods_with_Stata/
+
